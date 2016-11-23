@@ -1,6 +1,6 @@
 #include <iostream>
-#include <iomanip>
-#include <cstdlib>
+#include <iomanip> MILOSZ MILOSZ TU ZMIENIA
+#include <cstdlib> JULO I MILOSZ TU ZMIENIAJA
 #include <time.h>
 
 using namespace std;
