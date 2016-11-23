@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <time.h>
 
-using namespace std;
+using namespace std;sdertnjdfgdfbdrfhyghmntgf
 
 int main()
 {
