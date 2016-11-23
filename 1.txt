@@ -1,6 +1,6 @@
-#include <iostream>
+#include <iostream> JULOOOOOOOOO
 #include <iomanip>
-#include <cstdlib>
+#include <cstdlib> MI£OSZ RY£KO !
 #include <time.h>
 
 using namespace std;
