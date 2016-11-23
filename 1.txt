@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <cstdlib> MI£OSZ RY£KO ! KOLEJNAAAAAAAAAAA
 #include <time.h>
-
+ryjhkyuu,lytutjf
 using namespace std;
 
 int main()

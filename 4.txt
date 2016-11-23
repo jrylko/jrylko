@@ -18,7 +18,7 @@ int main()
           "Przed sortowaniem:\n\n";
 
 // Wype³niamy tablicê liczbami pseudolosowymi i wyœwietlamy je
-
+bnjyghfkjiytftyryser
   for(i = 1; i <= N; i++)
   {
     d[i] = rand() % 100; cout << setw(4) << d[i];

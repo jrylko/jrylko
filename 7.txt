@@ -15,7 +15,7 @@ int main()
   cout << " Sortowanie przez kopcowanie \n"
           "-----------------------------\n"
           "   (C)2005  Jerzy Walaszek\n\n"
-          "Przed sortowaniem:\n\n";
+          "Przed sortowaniem:\n\n";mbnj,m,,,m,m,m,m,m
 
 // Wype³niamy tablicê liczbami pseudolosowymi i wyœwietlamy je
 
