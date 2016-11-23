@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-  const int N = 20;  // liczebnoœæ zbioru
+  const int N = 20;  // liczebnoœæ zbiorugfdyhgggggggggggggggggggggggggg
   int d[N + 1],i,j,k,m,x;
 
   srand((unsigned)time(NULL));
