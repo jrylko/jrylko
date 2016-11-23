@@ -16,7 +16,7 @@ int main()
           "-----------------------------\n"
           "   (C)2005  Jerzy Walaszek\n\n"
           "Przed sortowaniem:\n\n";
-
+dfyn,ju.litygurt
 // Wype³niamy tablicê liczbami pseudolosowymi i wyœwietlamy je
 
   for(i = 1; i <= N; i++)
