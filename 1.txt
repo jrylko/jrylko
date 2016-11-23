@@ -4,6 +4,10 @@
 #include <cstdlib> MI£OSZ RY£KO ! KOLEJNAAAAAAAAAAA
 #include <time.h>
 
+
+
+
+1 zmiana brancza
 using namespace std;
 
 int main()
