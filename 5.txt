@@ -24,8 +24,7 @@ int main()
     d[i] = rand() % 100; cout << setw(4) << d[i];
   }
   cout << endl;
-
-// Budujemy kopiec
+drtyj,iyhuil,yu
 
   for(i = 2; i <= N; i++)
   {
