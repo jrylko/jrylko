@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main()
+int main()ESRHJidghasdighnbtih
 {
   const int N = 20;  // liczebnoœæ zbioru
   int d[N + 1],i,j,k,m,x;
